@@ -1,6 +1,9 @@
 # vue-calc
-A simple calculator using Vue JS
 
-Written July 2018 as part of initial attempt to learn some Vue. It is very simple and has no dependencies other than Vue JS.
+A simple calculator using Vue JS version 2 options API, originally written in July 2018.
 
-Icons are from [feathericons](https://feathericons.com/).
+It is very simple, just a learning exercise, and has no dependencies other than Vue JS.
+
+Icons are mostly from [feathericons](https://feathericons.com/).
+
+Updated Feb 2026 to use a parser written by Copilot rather than the dreaded eval function.
